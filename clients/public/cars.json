@@ -1,0 +1,1265 @@
+[
+    {
+    "car_name": "K9",
+    "brand": "Kia",
+    "model": "K9",
+    "model_years": "2024",
+    "model_code": "K9",
+    "overview": "The 2024 Kia K9 is a full-size luxury sedan that offers a blend of advanced technology, premium comfort, and powerful performance. It is designed for buyers who seek a high-end driving experience with an emphasis on sophistication and style.",
+    "type": "Sedan",
+    "layout": "Front-engine, rear-wheel-drive or all-wheel-drive",
+    "platform": "Hyundai-Kia N3 platform",
+    "images": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJqnCYjUs0I0G78mo9Y-poQo3HGuFgIyiAXPjOOjJnpMlAfVyLhQqNDVBaRtZBOMdwLIFvgiS_tY0IsTb8ut7E7A3jgHXJQbqt9jlrhZLkds2uAOiYbox5OA1WFkXna1aAEYKbNisjqqZ8NpyvmX-vRKFaaMnsx1zHKTHJ7C1U16tWtKM9yX44NXdZGLI/s666/2022-kia-sportage-removebg-preview.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinU5EBHtPIf9dXmfs_13LD57IGmYRhY_aVqiqtJcDnhkEYwp1qJDL8uv0ialhvKv56vcdrZdFNWldSYQbZltCGOKhtNfEvxgwCMGk1MUC4sQsilKSXe2hL7rft4hcDuvZ2B4m5baRtnwuXoP_CXJ2mAKWEPC6bRehXQNAYfrKFoPcWF9qlVOFRe79cWWQ/s1280/kia-sportage%20(2).png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgix3n3-t1kIKiSZ9k8eEqWAHKa-Yg-3G17CGuuTL1gZdZvGBB9yMrOKX_iOwWIANBRKW-GdHJYcKxl5NA4e3kXVXmzbwaUj-41-rzFDgGkWoULckOm4Uj3GY2V2S3se5HnI55kNHbEdTjusXw2qppVGQk07j97FAczz_V9RGk7wL8bdnoNmyd425QVzc8/s731/kia-sportage%20(5).png"
+    ],
+    "dimensions": {
+        "wheelbase": "122.0 inches",
+        "length": "201.6 inches",
+        "width": "75.4 inches",
+        "height": "58.7 inches",
+        "curb_weight": "4,600 - 4,850 lbs",
+        "description": "The K9 provides an expansive and luxurious interior, matched by its commanding exterior dimensions."
+    },
+    "color_options": [
+        "Snow White Pearl",
+        "Steel Gray",
+        "Aurora Black Pearl",
+        "Silky Silver",
+        "Mars Orange",
+        "Neptune Blue",
+        "Dark Ocean Blue"
+    ],
+    "performance": {
+        "engine_options": [
+            {
+                "engine_model": "Lambda 3.3 T-GDI",
+                "engine_type": "V6",
+                "engine_displacement": "3.3 liters",
+                "engine_power": "365 hp",
+                "description": "The Lambda 3.3 T-GDI engine is a turbocharged V6 engine that delivers strong acceleration and high performance.",
+                "technology_used": "Turbocharged Gasoline Direct Injection (T-GDI)",
+                "max_torque": "376 lb-ft",
+                "mileage": "21 mpg combined",
+                "engine_noise": "Moderate",
+                "engine_heat": "High",
+                "eco_friendly": "No",
+                "top_speed": "155 mph (estimated)"
+            },
+            {
+                "engine_model": "Tau 5.0 GDI",
+                "engine_type": "V8",
+                "engine_power": "420 hp",
+                "description": "The Tau 5.0 GDI engine is a naturally aspirated V8 engine known for its smooth power delivery and robust performance.",
+                "technology_used": "Gasoline Direct Injection (GDI)",
+                "max_torque": "383 lb-ft",
+                "mileage": "18 mpg combined",
+                "engine_noise": "Low",
+                "engine_heat": "Moderate",
+                "eco_friendly": "No",
+                "top_speed": "155 mph (estimated)"
+            },
+            {
+                "engine_model": "Lambda II 3.8 MPI",
+                "engine_type": "V6",
+                "engine_displacement": "3.8 liters",
+                "engine_power": "311 hp",
+                "description": "The Lambda II 3.8 MPI engine is a naturally aspirated V6 engine known for its reliability and smooth power delivery.",
+                "technology_used": "Multi-Point Injection (MPI)",
+                "max_torque": "293 lb-ft",
+                "mileage": "19 mpg combined",
+                "engine_noise": "Moderate",
+                "engine_heat": "High",
+                "eco_friendly": "No",
+                "top_speed": "150 mph (estimated)"
+            }
+        ],
+        "transmission": "The K9 is equipped with an 8-speed automatic transmission, ensuring seamless and efficient gear shifts.",
+        "drive_modes": "Various drive modes are available to cater to different driving preferences, including Comfort, Sport, and Eco.",
+        "powertrain": {
+            "petrol": {
+                "engine_model": "Lambda 3.3 T-GDI",
+                "engine_type": "V6",
+                "engine_displacement": "3.3 liters",
+                "engine_power": "365 hp",
+                "technology_used": "Turbocharged Gasoline Direct Injection (T-GDI)",
+                "max_torque": "376 lb-ft",
+                "mileage": "21 mpg combined",
+                "engine_noise": "Moderate",
+                "engine_heat": "High",
+                "eco_friendly": "No",
+                "top_speed": "155 mph (estimated)"
+            },
+            "petrol_hybrid": {
+                "engine_model": "Hybrid variant not available for K9 2024"
+            },
+            "petrol_lpg": {
+                "engine_model": "LPG variant not available for K9 2024"
+            }
+        },
+        "electric_motor": "None"
+    },
+    "interior_and_comfort": {
+        "interior_design": "The cabin of the K9 is opulent and meticulously crafted, featuring high-quality materials, ambient lighting, and an ergonomic design focused on driver and passenger comfort.",
+        "seating": "Luxurious seating for up to five passengers, with features such as heated and ventilated front and rear seats, Nappa leather upholstery, and a power-adjustable driver's seat with memory function.",
+        "infotainment": "A sophisticated infotainment system with a large 12.3-inch touchscreen display, supporting Apple CarPlay and Android Auto. Higher trims offer a premium Lexicon audio system."
+    },
+    "safety_and_technology": {
+        "safety_features": [
+            "Forward Collision-Avoidance Assist (FCA)",
+            "Lane Keeping Assist (LKA)",
+            "Blind-Spot Collision-Avoidance Assist (BCA)",
+            "Smart Cruise Control with Stop & Go (SCC)",
+            "Rear Cross-Traffic Collision-Avoidance Assist (RCCA)"
+        ],
+        "driver_assistance": "The K9 is equipped with advanced driver assistance systems (ADAS) to enhance safety and convenience."
+    },
+    "fuel_efficiency": {
+        "MPG": [
+            "The 3.3-liter turbocharged engine balances performance with fuel economy.",
+            "The 5.0-liter V8 engine offers robust performance with moderate fuel efficiency.",
+            "The 3.8-liter V6 engine provides a good balance of power and efficiency."
+        ]
+    },
+    "trim_levels": {
+        "variety_of_trims": "The 2024 K9 is available in several trims, including Standard, EX, and SX, allowing buyers to select the level of luxury and features that best suit their preferences."
+    },
+    "pricing": {
+        "competitive_pricing": "The starting price for the base model is competitive within the full-size luxury sedan segment, with higher trims offering additional luxury and advanced features at a higher cost."
+    },
+    "notable_highlights": {
+        "comfort_and_practicality": "The K9 offers an expansive and luxurious interior with ample space for passengers and cargo.",
+        "advanced_features": "Modern tech features, including a panoramic sunroof, wireless charging, and a digital instrument cluster in higher trims.",
+        "versatility": "The K9 is designed to provide a smooth and comfortable ride on various road conditions, especially with the available all-wheel-drive (AWD) option."
+    },
+    "predecessor": "Kia K900",
+    "class": "Full-size luxury car",
+    "conclusion": "The 2024 Kia K9 is a premier luxury sedan that appeals to buyers seeking a sophisticated, comfortable, and technologically advanced vehicle."
+},
+{
+    "car_name": "K8",
+    "brand": "Kia",
+    "model": "GL3",
+    "model_years": "2024",
+    "model_code": "GL3",
+    "overview": "The 2024 Kia K8 is a luxury sedan that combines sophisticated design, cutting-edge technology, and exceptional performance. It offers a refined and comfortable driving experience for discerning buyers.",
+    "type": "Sedan",
+    "layout": "Front-engine, front-wheel-drive or all-wheel-drive",
+    "platform": "Hyundai-Kia N3 platform",
+    "dimensions": {
+        "wheelbase": "113.8 inches",
+        "length": "197.4 inches",
+        "width": "74.8 inches",
+        "height": "57.9 inches",
+        "curb_weight": "3,741 - 4,000 lbs",
+        "description": "The K8 offers a spacious and luxurious interior, complemented by its elegant exterior dimensions."
+    },
+    "color_options": [
+        "Snow White Pearl",
+        "Steel Gray",
+        "Aurora Black Pearl",
+        "Silky Silver",
+        "Mars Orange",
+        "Neptune Blue",
+        "Dark Ocean Blue"
+    ],
+    "performance": {
+        "engine_options": [
+            {
+                "engine_model": "Lambda 3.5 GDI",
+                "engine_type": "V6",
+                "engine_power": "290 hp",
+                "description": "The Lambda 3.5 GDI engine is a powerful V6 engine designed to deliver smooth and responsive performance with impressive acceleration.",
+                "technology_used": "Gasoline Direct Injection (GDI)",
+                "max_torque": "253 lb-ft",
+                "mileage": "24 mpg combined",
+                "engine_noise": "Low",
+                "engine_heat": "Moderate",
+                "eco_friendly": "No"
+            },
+            {
+                "engine_model": "Smartstream 2.5 T-GDI",
+                "engine_type": "Turbocharged four-cylinder",
+                "engine_power": "300 hp",
+                "description": "The Smartstream 2.5 T-GDI engine is a turbocharged four-cylinder engine that combines high performance with fuel efficiency, ideal for a dynamic driving experience.",
+                "technology_used": "Turbocharged Gasoline Direct Injection (T-GDI)",
+                "max_torque": "311 lb-ft",
+                "mileage": "27 mpg combined",
+                "engine_noise": "Moderate",
+                "engine_heat": "High",
+                "eco_friendly": "No"
+            }
+        ],
+        "transmission": "The K8 comes with an 8-speed automatic transmission, providing smooth and efficient gear shifts.",
+        "drive_modes": "Various drive modes are available to suit different driving conditions, including Comfort, Sport, and Eco.",
+        "powertrain": {
+            "petrol": {
+                "engine_model": "Lambda 3.5 GDI",
+                "engine_type": "V6",
+                "engine_power": "290 hp",
+                "technology_used": "Gasoline Direct Injection (GDI)",
+                "max_torque": "253 lb-ft",
+                "mileage": "24 mpg combined",
+                "engine_noise": "Low",
+                "engine_heat": "Moderate",
+                "eco_friendly": "No"
+            },
+            "petrol_hybrid": {
+                "engine_model": "Smartstream 2.5 T-GDI",
+                "engine_type": "Turbocharged four-cylinder",
+                "engine_power": "300 hp",
+                "technology_used": "Turbocharged Gasoline Direct Injection (T-GDI)",
+                "max_torque": "311 lb-ft",
+                "mileage": "27 mpg combined",
+                "engine_noise": "Moderate",
+                "engine_heat": "High",
+                "eco_friendly": "No"
+            },
+            "petrol_lpg": {
+                "engine_model": "Lambda 3.5 LPI",
+                "engine_type": "V6",
+                "engine_power": "240 hp",
+                "technology_used": "Liquid Propane Injection (LPI)",
+                "max_torque": "258 lb-ft",
+                "mileage": "20 mpg combined",
+                "engine_noise": "Low",
+                "engine_heat": "Moderate",
+                "eco_friendly": "Yes"
+            }
+        },
+        "electric_motor": "None"
+    },
+    "interior_and_comfort": {
+        "interior_design": "The cabin of the K8 is luxurious and well-appointed, featuring high-quality materials, ambient lighting, and a driver-focused layout.",
+        "seating": "Comfortable seating for up to five passengers, with available features like heated and ventilated front seats, leather upholstery, and a power-adjustable driver's seat with memory function.",
+        "infotainment": "A state-of-the-art infotainment system with a large touchscreen display (up to 12.3 inches) compatible with Apple CarPlay and Android Auto. Some trims offer a premium Meridian audio system."
+    },
+    "safety_and_technology": {
+        "safety_features": [
+            "Forward Collision-Avoidance Assist (FCA)",
+            "Lane Keeping Assist (LKA)",
+            "Blind-Spot Collision-Avoidance Assist (BCA)",
+            "Smart Cruise Control with Stop & Go (SCC)",
+            "Rear Cross-Traffic Collision-Avoidance Assist (RCCA)"
+        ],
+        "driver_assistance": "The K8 is equipped with advanced driver assistance systems (ADAS) to enhance safety and convenience."
+    },
+    "fuel_efficiency": {
+        "MPG": [
+            "The 3.5-liter engine offers a balance of performance and fuel economy for its class.",
+            "The 2.5-liter turbocharged engine provides better fuel efficiency while delivering high performance."
+        ]
+    },
+    "trim_levels": {
+        "variety_of_trims": "The 2024 K8 is available in multiple trims, including Standard, EX, and SX, allowing buyers to choose the level of features and luxury that suits their needs and budget."
+    },
+    "pricing": {
+        "competitive_pricing": "The starting price for the base model is competitive within the luxury sedan segment, with higher trims offering additional features at a higher cost."
+    },
+    "notable_highlights": {
+        "comfort_and_practicality": "The K8 offers a spacious and luxurious interior with ample space for passengers and cargo.",
+        "advanced_features": "Modern tech features, including a panoramic sunroof, wireless charging, and a digital instrument cluster in higher trims.",
+        "versatility": "The K8 is designed to provide a smooth and comfortable ride on various road conditions, especially with the available all-wheel-drive (AWD) option."
+    },
+    "predecessor": "Kia Cadenza",
+    "class": "Executive car (E)",
+    "conclusion": "The 2024 Kia K8 is a premium luxury sedan that appeals to buyers seeking a stylish, comfortable, and technologically advanced vehicle."
+},
+{
+    "car_name": "Niro",
+    "brand": "Kia",
+    "model": "Niro",
+    "model_years": ["2024"],
+    "overview": "The Kia Niro is a compact crossover SUV known for its hybrid and plug-in hybrid variants, offering a blend of fuel efficiency, practicality, and modern features.",
+    "type": "Compact crossover SUV",
+    "platform": "Kia-K3 platform",
+    "dimensions": {
+        "length": "171.5 inches",
+        "width": "71.1 inches",
+        "height": "60.8 inches",
+        "wheelbase": "106.3 inches"
+    },
+    "engine_options": [
+        {
+            "engine_type": "Hybrid",
+            "engine_model": "1.6-liter four-cylinder + electric motor",
+            "engine_displacement": "1.6 liters",
+            "electric_motor": {
+                "motor_type": "Permanent Magnet Synchronous Motor (PMSM)",
+                "motor_power": "43 hp",
+                "battery_capacity": "1.56 kWh lithium-ion polymer battery"
+            },
+            "engine_power": "139 hp combined",
+            "drive_type": "Front-wheel drive (FWD)",
+            "transmission": "Dual-clutch automatic or CVT",
+            "electric_range": "Up to approx. 179 miles (electric-only)",
+            "fuel_efficiency": "Approx. 50 MPG combined",
+            "top_speed": "115 mph (estimated)"
+        },
+        {
+            "engine_type": "Plug-in Hybrid",
+            "engine_model": "1.6-liter four-cylinder + electric motor (larger battery capacity)",
+            "engine_displacement": "1.6 liters",
+            "electric_motor": {
+                "motor_type": "Permanent Magnet Synchronous Motor (PMSM)",
+                "motor_power": "60 hp",
+                "battery_capacity": "8.9 kWh lithium-ion polymer battery"
+            },
+            "engine_power": "139 hp combined",
+            "drive_type": "Front-wheel drive (FWD)",
+            "transmission": "Dual-clutch automatic or CVT",
+            "electric_range": "Up to approx. 283 (455km) miles (electric-only)",
+            "fuel_efficiency": "Varies; includes electric-only mode",
+            "top_speed": "110 mph (estimated)"
+        }
+    ],
+    "interior_and_features": {
+        "infotainment": "Typically includes Apple CarPlay, Android Auto, and touchscreen display",
+        "safety_features": [
+            "Forward collision warning",
+            "Lane departure warning",
+            "Adaptive cruise control"
+        ],
+        "seating_capacity": "Seats up to five passengers"
+    },
+    "trim_levels": {
+        "variety_of_trims": "Available in multiple trim levels offering different feature sets and equipment options."
+    },
+    "pricing": {
+        "starting_price": "Starting price typically ranges from $25,000 to $35,000 depending on trim and options."
+    },
+    "class": "Compact crossover SUV",
+    "predecessor": "None directly; unique model in Kia's lineup",
+    "fuel_efficiency": {
+        "MPG": [
+            "Approximately 50 MPG combined for hybrid models",
+            "Varies for plug-in hybrid models, includes electric-only mode"
+        ]
+    }
+},
+{
+    "car_name": "Seltos",
+    "brand": "Kia",
+    "model": "2024",
+    "type" : "SUV",
+    "overview": "The 2024 Kia Seltos is a compact SUV that combines a stylish design, practicality, and modern technology. It offers a versatile and comfortable driving experience for a variety of buyers.",
+    "design_and_exterior": {
+        "exterior_styling": "The 2024 Seltos features a modern and rugged design with a distinctive front grille, LED headlights, and a dynamic body profile that exudes confidence.",
+        "dimensions": {
+            "height": "64.4 inches",
+            "width": "70.9 inches",
+            "description": "Despite its compact size, the Seltos offers a spacious interior with ample cargo space and room for passengers."
+        },
+        "color_options": [
+            "Snow White Pearl",
+            "Steel Gray",
+            "Gravity Gray",
+            "Cherry Black",
+            "Mars Orange",
+            "Neptune Blue",
+            "Dark Ocean Blue",
+            "Starbright Yellow"
+        ]
+    },
+    "performance": {
+        "engine_options": [
+            {
+                "engine_model": "Nu 2.0 MPI",
+                "engine_type": "Four-cylinder",
+                "engine_power": "146 hp",
+                "description": "The Nu 2.0 MPI engine is a naturally aspirated four-cylinder engine that offers a balance of performance and efficiency. It's designed for smooth acceleration and reliable performance.",
+                "technology_used": "Multi-Point Injection (MPI)",
+                "max_torque": "132 lb-ft",
+                "mileage": "29 mpg combined",
+                "engine_noise": "Low",
+                "engine_heat": "Moderate",
+                "eco_friendly": "No"
+            },
+            {
+                "engine_model": "Gamma 1.6 T-GDI",
+                "engine_type": "Turbocharged four-cylinder",
+                "engine_power": "175 hp",
+                "description": "The Gamma 1.6 T-GDI engine is a turbocharged four-cylinder engine that delivers more power and better performance. It's designed for those who seek a more dynamic driving experience.",
+                "technology_used": "Turbocharged Gasoline Direct Injection (T-GDI)",
+                "max_torque": "195 lb-ft",
+                "mileage": "27 mpg combined",
+                "engine_noise": "Moderate",
+                "engine_heat": "High",
+                "eco_friendly": "No"
+            }
+        ],
+        "transmission": "It comes with either a continuously variable transmission (CVT) or a 7-speed dual-clutch automatic transmission, depending on the engine choice.",
+        "drive_modes": "Various drive modes are available to suit different driving conditions, including Normal, Eco, and Sport."
+    },
+    "interior_and_comfort": {
+        "interior_design": "The cabin of the Seltos is stylish and well-appointed, featuring high-quality materials and a user-friendly layout.",
+        "seating": "Comfortable seating for up to five passengers, with available features like heated front seats and a power-adjustable driver's seat.",
+        "infotainment": "An advanced infotainment system with a touchscreen display (typically 8 to 10.25 inches) compatible with Apple CarPlay and Android Auto. Some trims offer a premium Bose audio system."
+    },
+    "safety_and_technology": {
+        "safety_features": [
+            "Forward Collision-Avoidance Assist (FCA)",
+            "Lane Keeping Assist (LKA)",
+            "Blind-Spot Collision-Avoidance Assist (BCA)",
+            "Rear Cross-Traffic Collision-Avoidance Assist (RCCA)"
+        ],
+        "driver_assistance": "The Seltos is equipped with advanced driver assistance systems (ADAS) to enhance safety and convenience."
+    },
+    "fuel_efficiency": {
+        "MPG": [
+            "The 2.0-liter engine offers good fuel economy for its class.",
+            "The 1.6-liter turbocharged engine provides a balance of performance and efficiency."
+        ]
+    },
+    "trim_levels": {
+        "variety_of_trims": "The 2024 Seltos is available in multiple trims, including LX, S, EX, and SX, allowing buyers to choose the level of features and performance that suits their needs and budget."
+    },
+    "pricing": {
+        "competitive_pricing": "The starting price for the base model is competitive within the compact SUV segment, with higher trims offering additional features at a higher cost."
+    },
+    "notable_highlights": {
+        "comfort_and_practicality": "The Seltos offers a comfortable and practical interior with plenty of space for passengers and cargo.",
+        "advanced_features": "Modern tech features, including a panoramic sunroof, wireless charging, and an advanced digital instrument cluster in higher trims.",
+        "versatility": "The Seltos is designed to handle various road conditions with confidence, especially with the available all-wheel-drive (AWD) option."
+    },
+    "conclusion": "The 2024 Kia Seltos is a versatile and well-equipped compact SUV that appeals to a wide range of buyers, from young professionals to small families looking for a stylish and practical vehicle."
+},
+{
+    "car_name": "Sportage",
+    "brand": "Kia",
+    "model": "Sportage",
+    "model_years": ["2024"],
+    "overview": "The 2024 Kia Sportage is a compact SUV that offers a combination of modern design, advanced technology, and practical utility. It is designed for those who seek a versatile vehicle with a focus on comfort, safety, and performance.",
+    "type": "Compact SUV",
+    "platform": "Hyundai-Kia N3 platform",
+    "dimensions": {
+        "length": "183.5 inches",
+        "width": "73.4 inches",
+        "height": "65.4 inches",
+        "wheelbase": "108.5 inches",
+        "curb_weight": "3,500 - 4,000 lbs"
+    },
+    "doors": 4,
+    "powertrain": {
+        "engines": {
+            "petrol": [
+                {
+                    "engine_model": "1.6 L Smartstream G1.6 T-GDi I4",
+                    "engine_displacement": "1.6 liters",
+                    "engine_power": "177 hp",
+                    "engine_torque": "195 lb-ft",
+                    "top_speed": "125 mph"
+                },
+                {
+                    "engine_model": "2.0 L Smartstream G2.0 MPi I4",
+                    "engine_displacement": "2.0 liters",
+                    "engine_power": "147 hp",
+                    "engine_torque": "132 lb-ft",
+                    "top_speed": "118 mph"
+                },
+                {
+                    "engine_model": "2.0 L Smartstream G2.0 T-GDi I4",
+                    "engine_displacement": "2.0 liters",
+                    "engine_power": "237 hp",
+                    "engine_torque": "260 lb-ft",
+                    "top_speed": "135 mph"
+                },
+                {
+                    "engine_model": "2.5 L Smartstream G2.5 GDi I4",
+                    "engine_displacement": "2.5 liters",
+                    "engine_power": "187 hp",
+                    "engine_torque": "178 lb-ft",
+                    "top_speed": "120 mph"
+                }
+            ],
+            "petrol_hybrid": [
+                {
+                    "engine_model": "1.6 L Smartstream G1.6 T-GDi 48V I4",
+                    "engine_displacement": "1.6 liters",
+                    "engine_power": "150 hp",
+                    "engine_torque": "184 lb-ft",
+                    "top_speed": "115 mph"
+                },
+                {
+                    "engine_model": "1.6 L Smartstream G1.6 T-GDi HEV I4",
+                    "engine_displacement": "1.6 liters",
+                    "engine_power": "227 hp combined",
+                    "engine_torque": "258 lb-ft",
+                    "top_speed": "115 mph"
+                }
+            ],
+            "petrol_plug_in_hybrid": [
+                {
+                    "engine_model": "1.6 L Smartstream G1.6 T-GDi PHEV I4",
+                    "engine_displacement": "1.6 liters",
+                    "engine_power": "261 hp combined",
+                    "engine_torque": "258 lb-ft",
+                    "top_speed": "110 mph"
+                }
+            ],
+            "lpg": [
+                {
+                    "engine_model": "2.0 L Smartstream L2.0 LPi I4",
+                    "engine_displacement": "2.0 liters",
+                    "engine_power": "158 hp",
+                    "engine_torque": "142 lb-ft",
+                    "top_speed": "115 mph"
+                }
+            ],
+            "diesel": [
+                {
+                    "engine_model": "1.6 L Smartstream D1.6 CRDi I4",
+                    "engine_displacement": "1.6 liters",
+                    "engine_power": "134 hp",
+                    "engine_torque": "236 lb-ft",
+                    "top_speed": "120 mph"
+                },
+                {
+                    "engine_model": "2.0 L Smartstream D2.0 CRDi I4",
+                    "engine_displacement": "2.0 liters",
+                    "engine_power": "182 hp",
+                    "engine_torque": "295 lb-ft",
+                    "top_speed": "125 mph"
+                }
+            ],
+            "diesel_hybrid": [
+                {
+                    "engine_model": "1.6 L Smartstream D1.6 CRDi 48V I4",
+                    "engine_displacement": "1.6 liters",
+                    "engine_power": "134 hp",
+                    "engine_torque": "236 lb-ft",
+                    "top_speed": "120 mph"
+                }
+            ]
+        },
+        "electric_motor": [
+            {
+                "type": "Mild-Hybrid Starter-Generator (MHSG) (EcoDynamics+)",
+                "power_output": "16 hp"
+            },
+            {
+                "type": "44.7 kW (60.8 PS; 59.9 hp) permanent magnet electric motor (FHEV)",
+                "power_output": "59.9 hp"
+            },
+            {
+                "type": "66.9 kW (91.0 PS; 89.7 hp) permanent magnet traction electric motor (PHEV)",
+                "power_output": "89.7 hp"
+            }
+        ],
+        "transmissions": [
+            "6-speed manual",
+            "6-speed automatic",
+            "7-speed DCT",
+            "8-speed automatic"
+        ],
+        "hybrid_drivetrain": [
+            "EcoDynamics+ MHEV",
+            "Full Hybrid Electric Vehicle (FHEV)",
+            "PHEV (Sportage PHEV)"
+        ],
+        "batteries": [
+            {
+                "capacity": "0.44 kWh 48-volt lithium-ion battery (MHEV)",
+                "range": "Not applicable"
+            },
+            {
+                "capacity": "1.49 kWh 270-volt Lithium-polymer (LiPo) (FHEV)",
+                "range": "Up to 1 mile on electric power only"
+            },
+            {
+                "capacity": "13.8 kWh 360-volt Lithium-polymer (LiPo) (PHEV)",
+                "range": "Up to 32 miles on electric power only"
+            }
+        ]
+    },
+    "interior_and_features": {
+        "infotainment": "Includes a 12.3-inch touchscreen display, Apple CarPlay, Android Auto, and available Harman Kardon premium audio system",
+        "safety_features": [
+            "Forward Collision-Avoidance Assist",
+            "Lane Keeping Assist",
+            "Blind-Spot Collision-Avoidance Assist",
+            "Rear Cross-Traffic Collision-Avoidance Assist",
+            "Smart Cruise Control with Stop & Go"
+        ],
+        "seating_capacity": "Seats up to five passengers",
+        "comfort_features": [
+            "Heated and ventilated front seats",
+            "Dual-zone automatic climate control",
+            "Leather upholstery (available in higher trims)",
+            "Panoramic sunroof (available in higher trims)"
+        ]
+    },
+    "trim_levels": {
+        "variety_of_trims": "Available in multiple trim levels, including LX, EX, SX, and SX Prestige, offering a range of features and options."
+    },
+    "pricing": {
+        "starting_price": "Starting price typically ranges from $27,000 to $42,000 depending on trim and options."
+    },
+    "class": "Compact SUV",
+    "predecessor": "Kia Sportage 2023",
+    "fuel_efficiency": {
+        "MPG": [
+            "Approx. 25 MPG city / 32 MPG highway for gasoline models",
+            "Approx. 39 MPG combined for hybrid models",
+            "Varies for plug-in hybrid models, includes electric-only mode"
+        ]
+    },
+    "images": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJqnCYjUs0I0G78mo9Y-poQo3HGuFgIyiAXPjOOjJnpMlAfVyLhQqNDVBaRtZBOMdwLIFvgiS_tY0IsTb8ut7E7A3jgHXJQbqt9jlrhZLkds2uAOiYbox5OA1WFkXna1aAEYKbNisjqqZ8NpyvmX-vRKFaaMnsx1zHKTHJ7C1U16tWtKM9yX44NXdZGLI/s666/2022-kia-sportage-removebg-preview.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinU5EBHtPIf9dXmfs_13LD57IGmYRhY_aVqiqtJcDnhkEYwp1qJDL8uv0ialhvKv56vcdrZdFNWldSYQbZltCGOKhtNfEvxgwCMGk1MUC4sQsilKSXe2hL7rft4hcDuvZ2B4m5baRtnwuXoP_CXJ2mAKWEPC6bRehXQNAYfrKFoPcWF9qlVOFRe79cWWQ/s1280/kia-sportage%20(2).png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgix3n3-t1kIKiSZ9k8eEqWAHKa-Yg-3G17CGuuTL1gZdZvGBB9yMrOKX_iOwWIANBRKW-GdHJYcKxl5NA4e3kXVXmzbwaUj-41-rzFDgGkWoULckOm4Uj3GY2V2S3se5HnI55kNHbEdTjusXw2qppVGQk07j97FAczz_V9RGk7wL8bdnoNmyd425QVzc8/s731/kia-sportage%20(5).png"
+    ]
+},
+{
+    "model": "Kia Soul EV",
+    "type": "Electric Crossover",
+    "motor": {
+      "power_hp": 201,
+      "torque_lb_ft": 291,
+      "top_speed_mph": 104
+    },
+    "battery": {
+      "capacity_kWh": 64,
+      "range_miles": 243,
+      "charging_time_hours": {
+        "standard_charge": 9.5,
+        "fast_charge_80_percent": 1
+      }
+    },
+    "transmission": "Single-speed reduction gear",
+    "drive_type": "Front-Wheel Drive",
+    "dimensions": {
+      "length_in": 165.2,
+      "width_in": 70.9,
+      "height_in": 63.0,
+      "wheelbase_in": 102.4
+    },
+    "interior_features": [
+      "10.25-inch touchscreen display",
+      "Apple CarPlay",
+      "Android Auto",
+      "Harman Kardon premium audio system",
+      "Wireless smartphone charger",
+      "Heated and ventilated front seats",
+      "Leather upholstery"
+    ],
+    "safety_features": [
+      "Forward Collision-Avoidance Assist",
+      "Blind-Spot Collision Warning",
+      "Lane Keeping Assist",
+      "Rear Cross-Traffic Collision Warning",
+      "Smart Cruise Control with Stop & Go",
+      "Driver Attention Warning"
+    ],
+    "price_usd": {
+      "starting_msrp": 33750,
+      "highest_trim_msrp": 43500
+    },
+    "warranty": {
+      "basic_years": 5,
+      "basic_miles": 60000,
+      "powertrain_years": 10,
+      "powertrain_miles": 100000,
+      "battery_years": 10,
+      "battery_miles": 100000
+    },
+    "available_colors": [
+      "Clear White",
+      "Cherry Black",
+      "Gravity Gray",
+      "Inferno Red",
+      "Mars Orange",
+      "Neptune Blue"
+    ]
+  },
+  
+{
+    "model": "Kia EV6",
+    "type": "Electric Crossover",
+    "motor_options": [
+      {
+        "motor_type": "Standard Range",
+        "power_hp": 167,
+        "torque_lb_ft": 258,
+        "top_speed_mph": 115
+      },
+      {
+        "motor_type": "Long Range",
+        "power_hp": 225,
+        "torque_lb_ft": 258,
+        "top_speed_mph": 115
+      },
+      {
+        "motor_type": "Long Range AWD",
+        "power_hp": 320,
+        "torque_lb_ft": 446,
+        "top_speed_mph": 115
+      }
+    ],
+    "battery": {
+      "standard_range_kWh": 58,
+      "long_range_kWh": 77.4,
+      "range_miles": {
+        "standard_range": 232,
+        "long_range": 310,
+        "long_range_AWD": 274
+      },
+      "charging_time_hours": {
+        "standard_charge": 7,
+        "fast_charge_80_percent": 0.72
+      }
+    },
+    "transmission": "Single-speed reduction gear",
+    "drive_type": ["Rear-Wheel Drive", "All-Wheel Drive"],
+    "dimensions": {
+      "length_in": 184.3,
+      "width_in": 74.4,
+      "height_in": 61.0,
+      "wheelbase_in": 114.2
+    },
+    "interior_features": [
+      "12.3-inch dual panoramic displays",
+      "Apple CarPlay",
+      "Android Auto",
+      "Meridian premium audio system",
+      "Wireless smartphone charger",
+      "Heated and ventilated front seats",
+      "Vegan leather upholstery"
+    ],
+    "safety_features": [
+      "Forward Collision-Avoidance Assist",
+      "Blind-Spot Collision-Avoidance Assist",
+      "Lane Keeping Assist",
+      "Rear Cross-Traffic Collision-Avoidance Assist",
+      "Smart Cruise Control with Stop & Go",
+      "Highway Driving Assist",
+      "Driver Attention Warning"
+    ],
+    "price_usd": {
+      "starting_msrp": 42995,
+      "highest_trim_msrp": 55995
+    },
+    "warranty": {
+      "basic_years": 5,
+      "basic_miles": 60000,
+      "powertrain_years": 10,
+      "powertrain_miles": 100000,
+      "battery_years": 10,
+      "battery_miles": 100000
+    },
+    "available_colors": [
+      "Snow White Pearl",
+      "Aurora Black Pearl",
+      "Steel Gray Matte",
+      "Glacier",
+      "Yacht Blue",
+      "Runway Red"
+    ]
+  },
+  
+{
+    "model": "Kia EV9",
+    "type": "Electric SUV",
+    "motor_options": [
+      {
+        "motor_type": "Standard Range",
+        "power_hp": 201,
+        "torque_lb_ft": 258,
+        "top_speed_mph": 112
+      },
+      {
+        "motor_type": "Long Range",
+        "power_hp": 295,
+        "torque_lb_ft": 310,
+        "top_speed_mph": 112
+      },
+      {
+        "motor_type": "Performance AWD",
+        "power_hp": 400,
+        "torque_lb_ft": 480,
+        "top_speed_mph": 112
+      }
+    ],
+    "battery": {
+      "standard_range_kWh": 77.4,
+      "long_range_kWh": 100,
+      "range_miles": {
+        "standard_range": 250,
+        "long_range": 300,
+        "performance_AWD": 280
+      },
+      "charging_time_hours": {
+        "standard_charge": 8,
+        "fast_charge_80_percent": 0.7
+      }
+    },
+    "transmission": "Single-speed reduction gear",
+    "drive_type": ["Rear-Wheel Drive", "All-Wheel Drive"],
+    "dimensions": {
+      "length_in": 195.7,
+      "width_in": 78.3,
+      "height_in": 70.9,
+      "wheelbase_in": 122.2
+    },
+    "interior_features": [
+      "14.5-inch touchscreen display",
+      "Apple CarPlay",
+      "Android Auto",
+      "Meridian premium audio system",
+      "Wireless smartphone charger",
+      "Heated and ventilated front seats",
+      "Nappa leather upholstery",
+      "Panoramic sunroof"
+    ],
+    "safety_features": [
+      "Forward Collision-Avoidance Assist",
+      "Blind-Spot Collision-Avoidance Assist",
+      "Lane Keeping Assist",
+      "Rear Cross-Traffic Collision-Avoidance Assist",
+      "Smart Cruise Control with Stop & Go",
+      "Highway Driving Assist",
+      "Driver Attention Warning",
+      "Remote Smart Parking Assist"
+    ],
+    "price_usd": {
+      "starting_msrp": 56000,
+      "highest_trim_msrp": 72000
+    },
+    "warranty": {
+      "basic_years": 5,
+      "basic_miles": 60000,
+      "powertrain_years": 10,
+      "powertrain_miles": 100000,
+      "battery_years": 10,
+      "battery_miles": 100000
+    },
+    "available_colors": [
+      "Snow White Pearl",
+      "Aurora Black Pearl",
+      "Gravity Blue",
+      "Glacier",
+      "Steel Gray Matte",
+      "Runway Red"
+    ]
+  },
+  {
+    "model": "Kia K5",
+    "type": "Sedan",
+    "engine_options": [
+      {
+        "engine_type": "2.5L Turbocharged 4-Cylinder",
+        "horsepower": 290,
+        "torque_lb_ft": 311,
+        "top_speed_mph": 155
+      },
+      {
+        "engine_type": "1.6L Turbocharged 4-Cylinder",
+        "horsepower": 180,
+        "torque_lb_ft": 195,
+        "top_speed_mph": 130
+      }
+    ],
+    "transmission": "8-speed automatic",
+    "drive_type": ["Front-Wheel Drive", "All-Wheel Drive"],
+    "fuel_economy_mpg": {
+      "city": 27,
+      "highway": 37,
+      "combined": 31
+    },
+    "dimensions": {
+      "length_in": 193.1,
+      "width_in": 73.2,
+      "height_in": 56.9,
+      "wheelbase_in": 112.2
+    },
+    "interior_features": [
+      "10.25-inch touchscreen display",
+      "Apple CarPlay",
+      "Android Auto",
+      "Bose premium audio system",
+      "Wireless smartphone charger",
+      "Heated and ventilated front seats",
+      "Panoramic sunroof"
+    ],
+    "safety_features": [
+      "Forward Collision-Avoidance Assist",
+      "Blind-Spot Collision-Avoidance Assist",
+      "Lane Keeping Assist",
+      "Rear Cross-Traffic Collision-Avoidance Assist",
+      "Smart Cruise Control with Stop & Go",
+      "Highway Driving Assist"
+    ],
+    "price_usd": {
+      "starting_msrp": 24590,
+      "highest_trim_msrp": 31590
+    },
+    "warranty": {
+      "basic_years": 5,
+      "basic_miles": 60000,
+      "powertrain_years": 10,
+      "powertrain_miles": 100000
+    },
+    "available_colors": [
+      "Everlasting Silver",
+      "Glacial White Pearl",
+      "Passion Red Tint Coat",
+      "Ebony Black",
+      "Wolf Gray",
+      "Gravity Gray"
+    ]
+  },
+  {
+    "model": "Kia Cadenza",
+    "type": "Sedan",
+    "engine_options": [
+      {
+        "engine_type": "3.3L V6",
+        "horsepower": 290,
+        "torque_lb_ft": 253,
+        "top_speed_mph": 150
+      }
+    ],
+    "transmission": "8-speed automatic",
+    "drive_type": "Front-Wheel Drive",
+    "fuel_economy_mpg": {
+      "city": 20,
+      "highway": 28,
+      "combined": 23
+    },
+    "dimensions": {
+      "length_in": 195.7,
+      "width_in": 73.6,
+      "height_in": 57.9,
+      "wheelbase_in": 112.4
+    },
+    "interior_features": [
+      "12.3-inch touchscreen display",
+      "Apple CarPlay",
+      "Android Auto",
+      "Harman Kardon premium audio system",
+      "Wireless smartphone charger",
+      "Heated and ventilated front seats",
+      "Panoramic sunroof",
+      "Nappa leather upholstery"
+    ],
+    "safety_features": [
+      "Forward Collision-Avoidance Assist",
+      "Blind-Spot Collision-Avoidance Assist",
+      "Lane Keeping Assist",
+      "Rear Cross-Traffic Collision-Avoidance Assist",
+      "Smart Cruise Control with Stop & Go",
+      "Highway Driving Assist",
+      "Driver Attention Warning"
+    ],
+    "price_usd": {
+      "starting_msrp": 37500,
+      "highest_trim_msrp": 44500
+    },
+    "warranty": {
+      "basic_years": 5,
+      "basic_miles": 60000,
+      "powertrain_years": 10,
+      "powertrain_miles": 100000
+    },
+    "available_colors": [
+      "Snow White Pearl",
+      "Aurora Black Pearl",
+      "Gravity Blue",
+      "Panetera Metal",
+      "Silky Silver",
+      "Deep Chroma Blue"
+    ]
+  },
+  
+  {
+    "model": "Kia K7",
+    "type": "Sedan",
+    "engine_options": [
+      {
+        "engine_type": "3.3L V6",
+        "horsepower": 290,
+        "torque_lb_ft": 253,
+        "top_speed_mph": 150
+      },
+      {
+        "engine_type": "2.5L 4-Cylinder",
+        "horsepower": 198,
+        "torque_lb_ft": 184,
+        "top_speed_mph": 130
+      },
+      {
+        "engine_type": "2.4L Hybrid",
+        "horsepower": 192,
+        "torque_lb_ft": 151,
+        "top_speed_mph": 118
+      }
+    ],
+    "transmission": "8-speed automatic",
+    "drive_type": "Front-Wheel Drive",
+    "fuel_economy_mpg": {
+      "city": 21,
+      "highway": 29,
+      "combined": 24
+    },
+    "dimensions": {
+      "length_in": 195.7,
+      "width_in": 73.6,
+      "height_in": 57.9,
+      "wheelbase_in": 112.4
+    },
+    "interior_features": [
+      "12.3-inch touchscreen display",
+      "Apple CarPlay",
+      "Android Auto",
+      "Harman Kardon premium audio system",
+      "Wireless smartphone charger",
+      "Heated and ventilated front seats",
+      "Panoramic sunroof",
+      "Nappa leather upholstery"
+    ],
+    "safety_features": [
+      "Forward Collision-Avoidance Assist",
+      "Blind-Spot Collision-Avoidance Assist",
+      "Lane Keeping Assist",
+      "Rear Cross-Traffic Collision-Avoidance Assist",
+      "Smart Cruise Control with Stop & Go",
+      "Highway Driving Assist",
+      "Driver Attention Warning"
+    ],
+    "price_usd": {
+      "starting_msrp": 37500,
+      "highest_trim_msrp": 44500
+    },
+    "warranty": {
+      "basic_years": 5,
+      "basic_miles": 60000,
+      "powertrain_years": 10,
+      "powertrain_miles": 100000
+    },
+    "available_colors": [
+      "Snow White Pearl",
+      "Aurora Black Pearl",
+      "Gravity Blue",
+      "Panetera Metal",
+      "Silky Silver",
+      "Deep Chroma Blue"
+    ]
+  },
+  {
+    "model": "Kia Soul",
+    "type": "Crossover SUV",
+    "engine_options": [
+      {
+        "engine_type": "2.0L Inline-4",
+        "horsepower": 147,
+        "torque_lb_ft": 132,
+        "top_speed_mph": 120
+      },
+      {
+        "engine_type": "1.6L Turbocharged Inline-4",
+        "horsepower": 201,
+        "torque_lb_ft": 195,
+        "top_speed_mph": 127
+      }
+    ],
+    "transmission": ["Intelligent Variable Transmission (IVT)", "7-speed Dual-Clutch Transmission (DCT)"],
+    "drive_type": "Front-Wheel Drive",
+    "fuel_economy_mpg": {
+      "city": 28,
+      "highway": 33,
+      "combined": 30
+    },
+    "dimensions": {
+      "length_in": 165.2,
+      "width_in": 70.9,
+      "height_in": 63.0,
+      "wheelbase_in": 102.4
+    },
+    "interior_features": [
+      "10.25-inch touchscreen display",
+      "Apple CarPlay",
+      "Android Auto",
+      "Harman Kardon premium audio system",
+      "Wireless smartphone charger",
+      "Heated and ventilated front seats",
+      "Panoramic sunroof",
+      "Mood lighting"
+    ],
+    "safety_features": [
+      "Forward Collision-Avoidance Assist",
+      "Blind-Spot Collision Warning",
+      "Lane Keeping Assist",
+      "Rear Cross-Traffic Collision Warning",
+      "Smart Cruise Control",
+      "Driver Attention Warning"
+    ],
+    "price_usd": {
+      "starting_msrp": 19990,
+      "highest_trim_msrp": 27990
+    },
+    "warranty": {
+      "basic_years": 5,
+      "basic_miles": 60000,
+      "powertrain_years": 10,
+      "powertrain_miles": 100000
+    },
+    "available_colors": [
+      "Snow White Pearl",
+      "Cherry Black",
+      "Gravity Gray",
+      "Inferno Red",
+      "Mars Orange",
+      "Neptune Blue",
+      "Undercover Green",
+      "Steel Gray"
+    ]
+  },
+  {
+    "model": "Kia Sorento",
+    "type": "SUV",
+    "engine_options": [
+      {
+        "engine_type": "2.5L Inline-4",
+        "horsepower": 191,
+        "torque_lb_ft": 182,
+        "top_speed_mph": 130
+      },
+      {
+        "engine_type": "2.5L Turbocharged Inline-4",
+        "horsepower": 281,
+        "torque_lb_ft": 311,
+        "top_speed_mph": 140
+      },
+      {
+        "engine_type": "1.6L Turbocharged Inline-4 Hybrid",
+        "horsepower": 227,
+        "torque_lb_ft": 258,
+        "top_speed_mph": 120
+      },
+      {
+        "engine_type": "1.6L Turbocharged Inline-4 Plug-in Hybrid",
+        "horsepower": 261,
+        "torque_lb_ft": 258,
+        "top_speed_mph": 120
+      }
+    ],
+    "transmission": [
+      "8-speed automatic",
+      "6-speed automatic (Hybrid)",
+      "6-speed automatic (Plug-in Hybrid)"
+    ],
+    "drive_type": ["Front-Wheel Drive", "All-Wheel Drive"],
+    "fuel_economy_mpg": {
+      "city": 24,
+      "highway": 29,
+      "combined": 26
+    },
+    "dimensions": {
+      "length_in": 189.0,
+      "width_in": 74.8,
+      "height_in": 66.7,
+      "wheelbase_in": 110.8
+    },
+    "interior_features": [
+      "10.25-inch touchscreen display",
+      "Apple CarPlay",
+      "Android Auto",
+      "Bose premium audio system",
+      "Wireless smartphone charger",
+      "Heated and ventilated front seats",
+      "Panoramic sunroof",
+      "Leather upholstery"
+    ],
+    "safety_features": [
+      "Forward Collision-Avoidance Assist",
+      "Blind-Spot Collision-Avoidance Assist",
+      "Lane Keeping Assist",
+      "Rear Cross-Traffic Collision-Avoidance Assist",
+      "Smart Cruise Control with Stop & Go",
+      "Highway Driving Assist",
+      "Driver Attention Warning"
+    ],
+    "price_usd": {
+      "starting_msrp": 29790,
+      "highest_trim_msrp": 43090
+    },
+    "warranty": {
+      "basic_years": 5,
+      "basic_miles": 60000,
+      "powertrain_years": 10,
+      "powertrain_miles": 100000
+    },
+    "available_colors": [
+      "Snow White Pearl",
+      "Ebony Black",
+      "Gravity Gray",
+      "Sparkling Silver",
+      "Everlasting Silver",
+      "Passion Red Tint Coat",
+      "Aruba Green"
+    ]
+  },
+  {
+    "model": "Kia Rio Hatchback",
+    "type": "Hatchback",
+    "engine_options": [
+      {
+        "engine_type": "1.6L Inline-4",
+        "horsepower": 120,
+        "torque_lb_ft": 112,
+        "top_speed_mph": 115
+      }
+    ],
+    "transmission": "Intelligent Variable Transmission (IVT)",
+    "drive_type": "Front-Wheel Drive",
+    "fuel_economy_mpg": {
+      "city": 33,
+      "highway": 41,
+      "combined": 36
+    },
+    "dimensions": {
+      "length_in": 160.0,
+      "width_in": 67.9,
+      "height_in": 57.1,
+      "wheelbase_in": 101.6
+    },
+    "interior_features": [
+      "8.0-inch touchscreen display",
+      "Apple CarPlay",
+      "Android Auto",
+      "6-speaker audio system",
+      "USB charging ports",
+      "Cloth upholstery",
+      "60/40 split-folding rear seats"
+    ],
+    "safety_features": [
+      "Forward Collision-Avoidance Assist",
+      "Lane Keeping Assist",
+      "Driver Attention Warning",
+      "Electronic Stability Control",
+      "Hill Start Assist Control",
+      "Rearview Camera"
+    ],
+    "price_usd": {
+      "starting_msrp": 17050,
+      "highest_trim_msrp": 17050
+    },
+    "warranty": {
+      "basic_years": 5,
+      "basic_miles": 60000,
+      "powertrain_years": 10,
+      "powertrain_miles": 100000
+    },
+    "available_colors": [
+      "Clear White",
+      "Aurora Black",
+      "Sporty Blue",
+      "Steel Gray",
+      "Currant Red"
+    ]
+  }
+
+  
+
+]

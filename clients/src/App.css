@@ -1,0 +1,116 @@
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+body{
+  font-family: "DM Sans", sans-serif;
+}
+/* src/components/Navbar.css */
+.navbar {
+  font-family: Arial, sans-serif;
+  background-color: #fff;
+  
+}
+
+.navbar-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 20px;
+  border-bottom: 1px solid #eee;
+}
+
+.social-icons {
+  display: flex;
+  gap: 15px;
+}
+
+.social-icons .fa-icon {
+  cursor: pointer;
+  color: #333;
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+  color: #000;
+}
+
+.user-actions {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.user-actions .fa-icon {
+  cursor: pointer;
+  color: #333;
+}
+
+.subscribe-button {
+  display: flex;
+  align-items: center;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.subscribe-button .fa-icon {
+  margin-right: 5px;
+}
+
+.navbar-bottom {
+  padding: 20px 0px;
+  background-color: #F0F5FF;
+}
+.nav-btm{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.menu-icon {
+  cursor: pointer;
+}
+
+.menu-items {
+  display: flex;
+  gap: 20px;
+}
+
+.menu-items a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+
+.menu-items a:hover {
+  color: #007bff;
+}
+
+.search-icon {
+  cursor: pointer;
+  font-size: 18px;
+}
+
+/* Media Queries for responsive design */
+@media (max-width: 768px) {
+  .menu-icon {
+    display: block;
+  }
+
+  .menu-items {
+    display: none;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .navbar-bottom {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .social-icons {
+    opacity: 0;
+  }
+  
+}
